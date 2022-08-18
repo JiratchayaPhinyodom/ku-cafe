@@ -11,6 +11,13 @@
 
 
 ## Dinner
+| Menu                           | Price    |
+|:-------------------------------|----------|
+| Tom Yum Soup With Coconut Milk |    150   |
+| The Waterfall Beef Salad       |    85    |
+| Wagyu Steak  (400g)            |    800   |
+| Thai Green Curry               |    100   |
+| Chicken Hawaiian (size L)      |    520   |
 
 
 ## Night Food
