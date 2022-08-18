@@ -24,9 +24,9 @@ To find out what `|:---` and `---:|` mean, look at one of the Markdown reference
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points **deducted** if one person adds everyone. Name means name, **no student ids**.
+**TODO**: Each person add yourself to this tabloints **deducted** if one person adds everyone. Name means name, **no student ids**.
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Pinpimarn | Dinner    |    @pinpimarn   |
+| Pinpimarn | Dinner    |   @pinpimarn    |
 
