@@ -2,8 +2,7 @@
 
 [Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](#Nigth-Food) | [Beverages](#Beverages)
 
-Section1 | Section2 | Section3 | ...
-
+Section1 | Section2 | Section3 | .
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
 You learned the Markdown to do this in the `git-commands` assignments.    
 **TODO**: Remove all the TODO lines, of course.
