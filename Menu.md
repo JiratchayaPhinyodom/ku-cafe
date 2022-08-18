@@ -1,5 +1,6 @@
 # KU Cafe Menu
 
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](#Nigth-Food) | [Beverages](#Beverages)
 
 ## Breakfast
 
@@ -11,7 +12,13 @@
 | Black Coffee(Hot/Cold)     | 50    |
 
 ## Lunch 
-
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Fried Egg with Climbing Wattle  | 40       |
+| Chicken Soup             | 40       |
+| Thai Noodle With Pork    | 35       |
+| Tom Sap                  | 70       |
+| Beef Soup                | 80       |
 
 ## Dinner
 
@@ -26,9 +33,21 @@
 
 ## Night Food
 
+| Menu                      | Price |
+|:--------------------------|-------|
+| Meat                      | 590   |
+| Salads Kale               | 150   |
+| Truffle Fries             | 620   |
+| Nachos                    | 120   |
 
 ## Beverages
-
+| Menu                | Price |
+|:--------------------|-------|
+| Brewed Coffee (Hot) | 40    |
+| Iced Chocolate      | 55    |
+| Roses Tea (Iced)    | 45    |
+| Thai Tea  (Iced)    | 45    |
+| Yuzu Cold Brew      | 70    |
 
 
 ---
