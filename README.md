@@ -1,32 +1,63 @@
 # KU Cafe
 
-Section1 | Section2 | Section3 | ...
+[Breakfast](./Menu.md#breakfast) | [Lunch](./Menu.md#lunch) | [Dinner](./Menu.md#dinner) | [Night Food](./Menu.md#nigth-food) | [Beverages](./Menu.md#Beverages)
 
-**TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.
-You learned the Markdown to do this in the `git-commands` assignments.    
-**TODO**: Remove all the TODO lines, of course.
+## Breakfast
 
-## Drive-Thru
+| Menu               | Price |
+|:-------------------|-------|
+| Black Coffee(Hot/Cold)     | 50    |
+| Cheese Sandwich    | 30    |
+| Two Eggs Breakfast | 35    |
+| Waffles            | 60    |
 
-**TODO**: Replace this with the *actual* sections (plural) of the menu.  Each section should contain a **table** of menu items..    
-**TODO**: Your team should decide what the column headers should be and how to display prices. You want the menu sections to be consistent.
+## Lunch 
 
-Here is how to create a table using Markdown:
-
-| Column 1                 | Column 2 |
+| Menu                     | Price    |
 |:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+| Beef Soup                | 80       |
+| Chicken Soup             | 40       |
+| Fried Egg with Climbing Wattle  | 40       |
+| Thai Noodle With Pork    | 35       |
+| Tom Sap                  | 70       |
 
-To find out what `|:---` and `---:|` mean, look at one of the Markdown references in the git-commands assignment 
-(or any Markdown summary).
+## Dinner
+
+| Menu                                | Price    |
+|:------------------------------------|----------|
+| Chicken Hawaiian (size L)           |    220   |
+| Thai Green Chicken Curry            |    100   |
+| The Waterfall Beef Salad            |    85    |
+| Tom Yum Kung Soup With Coconut Milk |    100   |
+| Wagyu Steak  (400g)                 |    400   |
+
+
+## Night Food
+
+| Menu                      | Price |
+|:--------------------------|-------|
+| Meat                      | 590   |
+| Nachos                    | 120   |
+| Salads Kale               | 150   |
+| Truffle Fries             | 620   |
+
+## Beverages
+
+| Menu                | Price |
+|:--------------------|-------|
+| Brewed Coffee (Hot) | 40    |
+| Iced Chocolate      | 55    |
+| Roses Tea (Iced)    | 45    |
+| Thai Tea  (Iced)    | 45    |
+| Yuzu Cold Brew      | 70    |
 
 ## About Us
 
-**TODO**: Each person add yourself to this tabloints **deducted** if one person adds everyone. Name means name, **no student ids**.
-
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Pinpimarn | Dinner    |   @pinpimarn    |
+| Danita    | Beverages |    [@dzptahh](https://github.com/dzptahh)     |
+| Jiratchaya P. | Breakfast | [@JiratchayaPhinyodom](https://github.com/JiratchayaPhinyodom) |
+| Jiratchaya P. | Night Food | [@JiratchayaPhinyodom](https://github.com/JiratchayaPhinyodom) |
+| Parichaya | Lunch     |   [@crparichaya](https://github.com/crparichaya) |
+| Pinpimarn | Dinner    |   [@pinpimarn](https://github.com/pinpimarn)    |
 
