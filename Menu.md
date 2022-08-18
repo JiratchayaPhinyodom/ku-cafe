@@ -28,7 +28,13 @@
 
 
 ## Beverages
-
+| Menu                | Price |
+|:--------------------|-------|
+| Brewed Coffee (Hot) | 40    |
+| Iced Chocolate      | 55    |
+| Roses Tea (Iced)    | 45    |
+| Thai Tea  (Iced)    | 45    |
+| Yuzu Cold Brew      | 70    |
 
 
 ---
