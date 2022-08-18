@@ -7,8 +7,8 @@
 |:-------------------|-------|
 | Waffles            | 60    |
 | Two Eggs Breakfast | 35    |
-| Sandwich           | 50    |
-| Coffee             | 40    |
+| Cheese Sandwich    | 30    |
+| Black Coffee(Hot/Cold)     | 50    |
 
 ## Lunch 
 
