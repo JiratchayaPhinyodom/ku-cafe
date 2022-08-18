@@ -3,9 +3,12 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Menu               | Price |
+|:-------------------|-------|
+| Waffles            | 60    |
+| Two Eggs Breakfast | 35    |
+| Sandwich           | 50    |
+| Coffee             | 40    |
 
 ## Lunch 
 
