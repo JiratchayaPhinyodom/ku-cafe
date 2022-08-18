@@ -11,7 +11,13 @@
 | Black Coffee(Hot/Cold)     | 50    |
 
 ## Lunch 
-
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Fried Egg with Climbing Wattle  | 40       |
+| Chicken Soup             | 40       |
+| Thai Noodle With Pork    | 35       |
+| Tom Sap                  | 70       |
+| Beef Soup                | 80       |
 
 ## Dinner
 
