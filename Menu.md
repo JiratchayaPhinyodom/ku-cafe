@@ -10,11 +10,11 @@
 ## Lunch 
 | Menu                     | Price    |
 |:-------------------------|----------|
-| Cha Om Kai               | 40       |
+| Fried Egg with Climbing Wattle  | 40       |
 | Chicken Soup             | 40       |
 | Thai Noodle With Pork    | 35       |
-| Tom Sap                  | 100      |
-| Soup Neua                | 80       |
+| Tom Sap                  | 70       |
+| Beef Soup                | 80       |
 
 ## Dinner
 
